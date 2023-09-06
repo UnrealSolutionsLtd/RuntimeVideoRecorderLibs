@@ -8,4 +8,4 @@ How to use:
 
 ![image](https://github.com/UnrealSolutionsLtd/RuntimeVideoRecorderLibs/assets/2128080/92b1be72-38f6-4d0a-8166-7edd6a101391)
 
-4) Ready to go!
+3) Ready to go!
