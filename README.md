@@ -1,6 +1,6 @@
 # RuntimeVideoRecorderLibs
 
-This repository provides x264 and l-smash static libraries for popular platforms (Windows, Linux, Mac and Android).
+This repository provides `x264` and `l-smash` static libraries for popular platforms (Windows, Linux, Mac and Android).
 
 Setup:
 1) Download RuntimeVideoRecorder from Unreal Marketplace: https://www.unrealengine.com/marketplace/en-US/product/runtime-video-recorder/
