@@ -1,5 +1,7 @@
 # RuntimeVideoRecorder Documentation
 
+UPD: This plugin is currently on hold. I am investigating how to resolve licensing issues. Stay tuned
+
 ## How to use Runtime Video Recorder (Unreal plugin)
 
 Go to any Blueprint, grab reference to RuntimeVideoRecorder and call Start/Stop recording. You can provide desired width, height and fps if needed. Example:
