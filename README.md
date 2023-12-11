@@ -1,7 +1,5 @@
 # RuntimeVideoRecorder Documentation
 
-UPD: This plugin is currently on hold. I am investigating how to resolve licensing issues. Stay tuned
-
 ## How to use Runtime Video Recorder (Unreal plugin)
 
 Go to any Blueprint, grab reference to RuntimeVideoRecorder and call Start/Stop recording. You can provide desired width, height and fps if needed. Example:
@@ -11,10 +9,10 @@ Go to any Blueprint, grab reference to RuntimeVideoRecorder and call Start/Stop 
 
 ## Libraries
 
-This repository provides `x264` and `l-smash` static libraries for popular platforms (Windows, Linux, Mac and Android).
+This repository also provides `x264` and `l-smash` static libraries for popular platforms (Windows, Linux, Mac and Android). If you have corresponding license for x264 and willing to fully open-source your Unreal project code you can probably use x264. However, this is not a legal advice, ask experts.
 
 How to use:
-1) Download RuntimeVideoRecorder from Unreal Marketplace: https://www.unrealengine.com/marketplace/en-US/product/runtime-video-recorder/
+1) Buy & dwnload RuntimeVideoRecorder from Unreal Marketplace: https://www.unrealengine.com/marketplace/en-US/product/runtime-video-recorder/
 2) Go to `<ENGINE_DIR>/Plugins/Marketplace/RuntimeVideoRecorder/Source/ThirdParty/RuntimeVideoRecorderLibrary` and paste all files from the repository so it looks like this:
 
 ![image](https://github.com/UnrealSolutionsLtd/RuntimeVideoRecorderLibs/assets/2128080/92b1be72-38f6-4d0a-8166-7edd6a101391)
