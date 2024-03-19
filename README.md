@@ -7,7 +7,7 @@ Go to any Blueprint, grab reference to RuntimeVideoRecorder and call Start/Stop 
 ![bp_nodes](https://github.com/UnrealSolutionsLtd/RuntimeVideoRecorderLibs/assets/2128080/cf886712-fa30-4579-8f22-48d9458dc2ce)
 
 How to use:
-1) Buy & download RuntimeVideoRecorder from [Gumroad](https://petrleontev.gumroad.com/l/runtimevideorecorder)
+Buy & download RuntimeVideoRecorder from [Gumroad](https://petrleontev.gumroad.com/l/runtimevideorecorder). If you are not satisfied with the product quality then ask for a refund in Discord.
 
 
 Additional information: 
