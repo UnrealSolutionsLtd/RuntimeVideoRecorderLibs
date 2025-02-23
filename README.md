@@ -1,4 +1,4 @@
-# RuntimeVideoRecorder Documentation
+# Runtime Video Recorder Documentation
 
 ## How to use Runtime Video Recorder (Unreal plugin)
 
